@@ -1,0 +1,19 @@
+Formula/glasstty.rb
+  s_d2fb404b8f68b3::t_1385e83a917d14 1-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "43f6164bf7b6c149ef525a2d11996c9cffa9d0b1",
+  "prompts": {},
+  "sessions": {
+    "s_d2fb404b8f68b3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3e211d12-978e-4305-85dc-0f6881c3dcf8",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yilun Qian <11675769+qianyilun@users.noreply.github.com>"
+    }
+  }
+}
